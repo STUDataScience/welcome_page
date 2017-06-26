@@ -1,0 +1,16 @@
+---
+title: "News"
+---
+
+## Summer 2017
+
+- Students from the MS in Big Data Analytics are finishing up their Capstone Projects this Summer! Stay tuned for updates and links to their work
+
+- Miami Dade College (MDC) and St Thomas University (STU) students participating on the Summer Research Institute (SRI) 2017 continue to learn about data science and are using `R` for cool undegraduate projects. 
+
+
+- CIS 204 Intro to Data Sience is being offered during the Fall of 2017. _Enroll now!_
+
+  (i) Instructor: Reinaldo Sanchez-Arias, PhD
+  
+  (ii) Meetings: MW 1:40 - 2:55 PM CCL 101

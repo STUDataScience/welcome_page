@@ -1,4 +1,4 @@
 # set our working directory
-setwd("C:/Users/rsanchez-arias/welcome_page/")
+setwd("~/Google Drive/welcome_page/")
 # render your site
 rmarkdown::render_site()
