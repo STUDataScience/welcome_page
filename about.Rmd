@@ -1,0 +1,17 @@
+---
+title: "About Us"
+---
+
+- Gain valuable business intelligence experience as you apply advanced scientific theories to solve complex Big Data problems.
+
+- Become an in-demand candidate for the many exciting roles in Data Analytics.
+
+- Learn the communication skills necessary to help businesses interpret data and make strategic decisions.
+
+**Curriculum Course Sampling**
+
+CIS 544 Data Mining and Machine Learning
+
+CIS 545 Big Data Warehousing
+
+CIS 546 Data Visualization
