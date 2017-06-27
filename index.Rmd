@@ -3,13 +3,15 @@ title: "Big Data Analytics at STU"
 ---
 
 
-## MS in Big Data Analytics
+## _Master of Science in Big Data Analytics_
 
 The _MS in Big Data Analytics_ program is a **one-year graduate program** designed to provide real-world experience in critical analytical skills that are needed in the fast-growing field of data analytics. It focuses on preparing students to formulate strategies and make critical decisions based on real data. The curriculum offers an intensive study of **data mining**, **data visualization**, **machine learning**, **statistical modeling**, and **big data computing infrastructure** and technologies. 
 
 Training allows the students to sharpen their organizational and technical competencies to implement data gathering, cleansing, integration and modeling tasks and data asset analysis for applications in different fields. It is aimed at students who wish to become _data scientists_ and analysts in professional and academic.
 
-Apply now! <https://web.stu.edu/GraduateApplication/tabid/1742/Default.aspx>
+**APPLY NOW!** 
+
+<https://web.stu.edu/GraduateApplication/tabid/1742/Default.aspx>
 
 
 

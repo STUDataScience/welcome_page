@@ -1,6 +1,8 @@
 ---
-title: "About Us"
+title: "Big Data @ STU"
 ---
+
+## Program Highlights
 
 - Gain valuable business intelligence experience as you apply advanced scientific theories to solve complex Big Data problems.
 
@@ -8,10 +10,31 @@ title: "About Us"
 
 - Learn the communication skills necessary to help businesses interpret data and make strategic decisions.
 
-**Curriculum Course Sampling**
+## Curriculum Course Sampling
 
-CIS 544 Data Mining and Machine Learning
+- Data Mining and Machine Learning
 
-CIS 545 Big Data Warehousing
+- Big Data Warehousing
 
-CIS 546 Data Visualization
+- Data Visualization
+
+- Statistical Methods
+
+- Applied Machine Learning
+
+
+## Current Students
+
+ Class of 2017    | Class of 2018      
+ -----------------|-------------------
+ Santosh Pinapati | Yasshin Lozano 
+ Javier Rojas     | Fujun Cheng 
+ Elbert Perez     | Yuntong Li
+ Joseph Santalucia| Jiusheng Chen 
+ Gladys Joseph    |
+ Michelson Platon |
+ Brian Koster     |
+ Yenework Mola    | 
+    
+
+
