@@ -5,14 +5,51 @@ title: "Big Data Analytics at STU"
 
 ## _Master of Science in Big Data Analytics_
 
-The _MS in Big Data Analytics_ program is a **one-year graduate program** designed to provide real-world experience in critical analytical skills that are needed in the fast-growing field of data analytics. It focuses on preparing students to formulate strategies and make critical decisions based on real data. The curriculum offers an intensive study of **data mining**, **data visualization**, **machine learning**, **statistical modeling**, and **big data computing infrastructure** and technologies. 
+The _MS in Big Data Analytics_ program is a **one-year graduate program** designed to provide real-world experience in critical analytical skills that are needed in the fast-growing field of data analytics. 
+
+It focuses on preparing students to formulate strategies and make critical decisions based on real data. The curriculum offers an intensive study of **data mining**, **data visualization**, **machine learning**, **statistical modeling**, and **big data computing infrastructure** and technologies. 
 
 Training allows the students to sharpen their organizational and technical competencies to implement data gathering, cleansing, integration and modeling tasks and data asset analysis for applications in different fields. It is aimed at students who wish to become _data scientists_ and analysts in professional and academic.
+
 
 **APPLY NOW!** 
 
 <https://web.stu.edu/GraduateApplication/tabid/1742/Default.aspx>
 
+<br>
 
 
+**CONTACT US**
+
+
+
+[**Reinaldo Sanchez-Arias, PhD**](https://www.stu.edu/science/faculty-staff/Reinaldo-Sanchez-Arias) 
+
+_**Big Data Analytics Program Director**_ 
+
+School of Science 
+
+St. Thomas University 
+
+<RSanchez-Arias@stu.edu> 
+
+<br>
+
+**Lauren Eadeh, M.A.**
+
+_**Executive Coordinator for Graduate Recruitment**_
+
+Office of Admissions
+
+St. Thomas University
+
+16401 NW 37 Avenue
+
+Miami, FL 33054
+
+Office:     305.474.6073 
+
+Cellphone:  305.397.9672
+
+<LEadeh@stu.edu>
 

@@ -25,16 +25,16 @@ title: "Big Data @ STU"
 
 ## Current Students
 
- Class of 2017    |      Class of 2018      
+ Class of 2017    |      Current Students      
  -----------------|--------------
  Santosh Pinapati |   Yasshin Lozano 
  [Javier Rojas](https://javyr.github.io/personal_site/about.html)     |   Fujun Cheng 
  Elbert Perez     |   Yuntong Li
  Joseph Santalucia|   Jiusheng Chen 
- Gladys Joseph    |
- Michelson Platon |
- Brian Koster     |
- Yenework Mola    | 
+ Gladys Joseph    |   Norge Pena Perez
+ Michelson Platon |   Gabriella Bongiovanni
+ Brian Koster     |   Luis Acosta Aparicio
+ Yenework Mola    |   Manmeet Singh Chawla
     
 
 
