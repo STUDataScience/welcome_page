@@ -33,8 +33,10 @@ title: "Big Data @ STU"
  Joseph Santalucia|   Jiusheng Chen 
  Gladys Joseph    |   Norge Pena Perez
  Michelson Platon |   Gabriella Bongiovanni
- Brian Koster     |   Luis Acosta Aparicio
+ Brian Koster     |   [Luis Acosta Aparicio](https://luije87.github.io/502_Final_Project_Acosta.html)
  Yenework Mola    |   Manmeet Singh Chawla
+ .                |   YuDa Li
+ .                |   Yuwen Li
     
 
 
