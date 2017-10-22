@@ -10,6 +10,9 @@ title: "News"
 knitr::include_graphics("BDA_group_SU17.JPG")
 ```
 
+```{r, fig.show = 'hold', out.width = '50%', echo=FALSE}
+knitr::include_graphics(c("vynneBDA.jpg","su17grad.JPG") )
+```
 
 - Miami Dade College (MDC) and St Thomas University (STU) students participating on the **Summer Research Institute (SRI) 2017** continue to learn about data science and are using `R` for cool undergraduate projects. 
 
