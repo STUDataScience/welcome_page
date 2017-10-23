@@ -36,8 +36,7 @@ title: "Big Data @ STU"
  Brian Koster     |   [Luis Acosta Aparicio](https://luije87.github.io/502_Final_Project_Acosta.html)
  Yenework Mola    |   Manmeet Singh Chawla
  .                |   YuDa Li
- .                |   Yuwen Li
-    
+
 
 
 

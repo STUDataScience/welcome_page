@@ -33,11 +33,11 @@ knitr::include_graphics(c("JosePoster.JPG","SabrinaPoster.JPG") )
 ```
 
 
-- Biology students Claudia Gorbea and Amanda Lobato, who worked with Dr. Pilar Maul and Dr. Sanchez-Arias as well as faculty from Nova Oceanographic Center, will present their project _"Analysis of Microbial Communities Reflect Vertical Migration in the Gulf of Mexico"_ at the 2017 American Society for Microbiology - Florida Branch Meeting in Clearwater Beach, FL. 
+- Biology students Claudia Gorbea and Amanda Lobato, who worked with Dr. [Pilar Maul](https://www.stu.edu/science/faculty-staff/Pilar-Maul) and Dr. Sanchez-Arias as well as faculty from Nova Oceanographic Center, will present their project _"Analysis of Microbial Communities Reflect Vertical Migration in the Gulf of Mexico"_ at the 2017 American Society for Microbiology - Florida Branch Meeting in Clearwater Beach, FL. 
 A variety of data analysis `R` tools were used during this project for data visualization!
 
 - Dr. Sanchez-Arias participated in the STU Biology Seminar Series, with a presentation on _Big Data Analytics in Life Sciences_. The seminar is organized by [Dr. Jeff Plunkett](https://www.stu.edu/science/Faculty-Staff/Jeffrey-Plunkett), with participation of STU faculty, as well as of students in the [MS in Cell and Molecular Biology](https://www.stu.edu/science/Programs/MS-Cell-and-Molecular-Biology) 
 
-- Dr. Sanchez-Arias was recently invited to participate in the [FIU Biomedical Engineering Wallace H. Coulter Foundation Lecture Series](https://bme.fiu.edu/resources/lecture-series/), with a seminar talk on _"Data Analytics and Machine Learning Applications for Engineering and Science"_. 
+- Dr. [Sanchez-Arias](https://www.stu.edu/science/faculty-staff/Reinaldo-Sanchez-Arias) was recently invited to participate in the [FIU Biomedical Engineering Wallace H. Coulter Foundation Lecture Series](https://bme.fiu.edu/resources/lecture-series/), with a seminar talk on _"Data Analytics and Machine Learning Applications for Engineering and Science"_. 
 
-
+- Dr. [David Quesada](https://www.stu.edu/science/Faculty-Staff/David-Quesada) participated in the [Geological Society of America (GSA) Annual Meeting](https://gsa.confex.com/gsa/2017AM/webprogram/Paper301341.html), presenting about his work on how to enhance _climate literacy_ across liberal arts education through cross-curriculum embedding of topics. He presented a summary of 4 years of partnership with the American Meteorological Society and the GSA educational initiatives.
