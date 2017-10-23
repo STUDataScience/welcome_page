@@ -14,7 +14,7 @@ knitr::include_graphics("BDA_group_SU17.JPG")
 knitr::include_graphics(c("vynneBDA.jpg","su17grad.JPG") )
 ```
 
-- Miami Dade College (MDC) and St Thomas University (STU) students participating on the **Summer Research Institute (SRI) 2017** continue to learn about data science and are using `R` for cool undergraduate projects. 
+- Miami Dade College (MDC) and St Thomas University (STU) students participating on the **Summer Research Institute (SRI) 2017** learned about data science methods and tool, and use `R` for interesting undergraduate projects. Topics included an analysis of the gentrification process in the City of Miami, logistic regression models for student performance, statistical analysis of asthma and respiratory conditions, micro-climatic variations in St. Thomas University's forest, thermal imaging, among others.
 
 
 - **CIS 204 Intro to Data Sience** to be offered during the Fall of 2017. _Enroll now!_
@@ -22,6 +22,12 @@ knitr::include_graphics(c("vynneBDA.jpg","su17grad.JPG") )
     (i) Instructor: [Reinaldo Sanchez-Arias, PhD](https://www.stu.edu/science/faculty-staff/Reinaldo-Sanchez-Arias)
   
     (ii) Meetings: MW 1:40 - 2:55 PM CCL 101
+    
+    
+    
+- Dr. [David Quesada](https://www.stu.edu/science/Faculty-Staff/David-Quesada) participated in the VI Ibero-American [Symposium on Nanotechnology](http://snnq17.com/nanodyf-eng/) in Ecuador with presentations on the use of _data science and machine learning to find new materials_ with desired properties.
+
+
 
 ## Fall 2017
 
