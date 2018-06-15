@@ -1,8 +1,8 @@
 ---
-title: "Big Data @ STU"
+title: "Big Data Analytics @ STU"
 ---
 
-## Program Highlights
+## _Program Highlights_
 
 - Gain valuable business intelligence experience as you apply advanced scientific theories to solve complex Big Data problems.
 
@@ -10,7 +10,7 @@ title: "Big Data @ STU"
 
 - Learn the communication skills necessary to help businesses interpret data and make strategic decisions.
 
-## Curriculum Course Sampling
+## _Curriculum Course Sampling_
 
 - Data Mining and Machine Learning
 
@@ -23,14 +23,14 @@ title: "Big Data @ STU"
 - Applied Machine Learning
 
 
-## Current Students
+## _Current Students_
 
  Class of 2017    |      Current Students      
  -----------------|--------------
  Santosh Pinapati |   Yasshin Lozano 
  [Javier Rojas](https://javyr.github.io/personal_site/about.html)     |   Fujun Cheng 
  Elbert Perez     |   Yuntong Li
- Joseph Santalucia|   Jiusheng Chen 
+ Joseph Santalucia|   [Jiusheng Chen](https://simoncjs.github.io/simonchen.github.io/index.html) 
  Gladys Joseph    |   Norge Pena Perez
  Michelson Platon |   Gabriella Bongiovanni
  Brian Koster     |   [Luis Acosta Aparicio](https://luije87.github.io/502_Final_Project_Acosta.html)
@@ -38,5 +38,14 @@ title: "Big Data @ STU"
  .                |   YuDa Li
 
 
+#### _Congratulations to the MS in Big Data Analytics graduates! We wish you success in all your future endeavors_
+
+```{r,fig.show = 'hold', out.width = '50%', echo=FALSE}
+knitr::include_graphics(c("javier_et_al.jpg","su17grad.JPG" ))
+```
 
 
+
+```{r, fig.show = 'hold', out.width = '50%', echo=FALSE}
+knitr::include_graphics(c("vynneBDA.jpg", "simon.jpg") )
+```

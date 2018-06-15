@@ -5,7 +5,7 @@ title: "Big Data Analytics at STU"
 
 ## _Master of Science in Big Data Analytics_
 
-The _MS in Big Data Analytics_ program is a **one-year graduate program** designed to provide real-world experience in critical analytical skills that are needed in the fast-growing field of data analytics. 
+The [_MS in Big Data Analytics_](https://www.stu.edu/science/programs/MS-Big-Data-Analytics.html) program is a **one-year graduate program** designed to provide real-world experience in critical analytical skills that are needed in the fast-growing field of data analytics. 
 
 It focuses on preparing students to formulate strategies and make critical decisions based on real data. The curriculum offers an intensive study of **data mining**, **data visualization**, **machine learning**, **statistical modeling**, and **big data computing infrastructure** and technologies. 
 
@@ -21,6 +21,22 @@ Training allows the students to sharpen their organizational and technical compe
 
 **CONTACT US**
 
+<style>
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: right;
+}
+</style>
+
+
+
+<div class="column-left">
 
 
 [**Reinaldo Sanchez-Arias, PhD**](https://www.stu.edu/science/faculty-staff/Reinaldo-Sanchez-Arias) 
@@ -34,6 +50,9 @@ St. Thomas University
 <RSanchez-Arias@stu.edu> 
 
 <br>
+</div>
+<div class="column-right">
+
 
 **Lauren Eadeh, M.A.**
 
@@ -43,9 +62,6 @@ Office of Admissions
 
 St. Thomas University
 
-16401 NW 37 Avenue
-
-Miami, FL 33054
 
 Office:     305.474.6073 
 
@@ -53,3 +69,5 @@ Cellphone:  305.397.9672
 
 <LEadeh@stu.edu>
 
+
+</div>

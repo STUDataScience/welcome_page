@@ -2,34 +2,39 @@
 title: "News"
 ---
 
-## Summer 2017
-
-- Students from the MS in Big Data Analytics finished their **Capstone Projects** this Summer! Congratulations to all!
-
-```{r, out.width = "600px", fig.align='center', echo=FALSE}
-knitr::include_graphics("BDA_group_SU17.JPG")
-```
-
-```{r, fig.show = 'hold', out.width = '50%', echo=FALSE}
-knitr::include_graphics(c("vynneBDA.jpg","su17grad.JPG") )
-```
-
-- Miami Dade College (MDC) and St Thomas University (STU) students participating on the **Summer Research Institute (SRI) 2017** learned about data science methods and tool, and use `R` for interesting undergraduate projects. Topics included an analysis of the gentrification process in the City of Miami, logistic regression models for student performance, statistical analysis of asthma and respiratory conditions, micro-climatic variations in St. Thomas University's forest, thermal imaging, among others.
 
 
-- **CIS 204 Intro to Data Sience** to be offered during the Fall of 2017. _Enroll now!_
+## _Spring 2018_
 
-    (i) Instructor: [Reinaldo Sanchez-Arias, PhD](https://www.stu.edu/science/faculty-staff/Reinaldo-Sanchez-Arias)
-  
-    (ii) Meetings: MW 1:40 - 2:55 PM CCL 101
-    
-    
-    
-- Dr. [David Quesada](https://www.stu.edu/science/Faculty-Staff/David-Quesada) participated in the VI Ibero-American [Symposium on Nanotechnology](http://snnq17.com/nanodyf-eng/) in Ecuador with presentations on the use of _data science and machine learning to find new materials_ with desired properties.
+-  Dr. [David Quesada](https://www.stu.edu/science/Faculty-Staff/David-Quesada) and Dr. [Reinaldo Sanchez-Arias](https://www.reisanar.com/) gave a public lecture entitled _"Data Science of Social Networks"_ at St. Thomas University, as part of the Library Lecture Series.
 
 
 
-## Fall 2017
+
+
+- Special lecture on _"Handling Missing Data"_ by Dr. Mine Dogucu at STU School of Science.
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great presentation on handling missing data by <a href="https://twitter.com/MineDogucu?ref_src=twsrc%5Etfw">@MineDogucu</a> thanks for visiting <a href="https://twitter.com/StThomasUniv?ref_src=twsrc%5Etfw">@StThomasUniv</a> !kudos to <a href="https://twitter.com/dques2766?ref_src=twsrc%5Etfw">@dques2766</a> for organizing this for our students <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/Rladies?src=hash&amp;ref_src=twsrc%5Etfw">#Rladies</a>  <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/WiDS?src=hash&amp;ref_src=twsrc%5Etfw">#WiDS</a> <a href="https://t.co/6hHQ7IyOur">pic.twitter.com/6hHQ7IyOur</a></p>&mdash; Rei Sanchez-Arias (@reisanar) <a href="https://twitter.com/reisanar/status/974674897845866497?ref_src=twsrc%5Etfw">March 16, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+
+
+
+- STU Big Data Analytics students participated in the first _"Data Science Salon"_ event in Miami, FL
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Learning more about <a href="https://twitter.com/plotlygraphs?ref_src=twsrc%5Etfw">@plotlygraphs</a> with Chelsea Douglas at the <a href="https://twitter.com/DataSciSalon?ref_src=twsrc%5Etfw">@DataSciSalon</a> Miami this morning. <a href="https://twitter.com/StThomasUniv?ref_src=twsrc%5Etfw">@StThomasUniv</a> students participate in the event. Lots of great sessions tomorrow as well! <a href="https://twitter.com/DrIrmaBecerra?ref_src=twsrc%5Etfw">@DrIrmaBecerra</a> <a href="https://twitter.com/bmacNHL?ref_src=twsrc%5Etfw">@bmacNHL</a> <a href="https://twitter.com/alteryx?ref_src=twsrc%5Etfw">@alteryx</a> <a href="https://twitter.com/catarango?ref_src=twsrc%5Etfw">@catarango</a>   <a href="https://twitter.com/OReillyMedia?ref_src=twsrc%5Etfw">@OReillyMedia</a> <a href="https://twitter.com/hashtag/DataSciSalon?src=hash&amp;ref_src=twsrc%5Etfw">#DataSciSalon</a> <a href="https://t.co/sdTEZm6D8u">pic.twitter.com/sdTEZm6D8u</a></p>&mdash; Rei Sanchez-Arias (@reisanar) <a href="https://twitter.com/reisanar/status/961637692202209280?ref_src=twsrc%5Etfw">February 8, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+
+
+## _Fall 2017_
 
 - MDC Students, Sabrina Romero and Jose Muguira, presented their data science projects during the MDC STEM Symposium in September 2017.
 
@@ -44,6 +49,38 @@ A variety of data analysis `R` tools were used during this project for data visu
 
 - Dr. Sanchez-Arias participated in the STU Biology Seminar Series, with a presentation on _Big Data Analytics in Life Sciences_. The seminar is organized by [Dr. Jeff Plunkett](https://www.stu.edu/science/Faculty-Staff/Jeffrey-Plunkett), with participation of STU faculty, as well as of students in the [MS in Cell and Molecular Biology](https://www.stu.edu/science/Programs/MS-Cell-and-Molecular-Biology) 
 
-- Dr. [Sanchez-Arias](https://www.stu.edu/science/faculty-staff/Reinaldo-Sanchez-Arias) was recently invited to participate in the [FIU Biomedical Engineering Wallace H. Coulter Foundation Lecture Series](https://bme.fiu.edu/resources/lecture-series/), with a seminar talk on _"Data Analytics and Machine Learning Applications for Engineering and Science"_. 
+- Dr. [Sanchez-Arias](https://www.reisanar.com/) was recently invited to participate in the [FIU Biomedical Engineering Wallace H. Coulter Foundation Lecture Series](https://bme.fiu.edu/resources/lecture-series/), with a seminar talk on _"Data Analytics and Machine Learning Applications for Engineering and Science"_. 
 
 - Dr. [David Quesada](https://www.stu.edu/science/Faculty-Staff/David-Quesada) participated in the [Geological Society of America (GSA) Annual Meeting](https://gsa.confex.com/gsa/2017AM/webprogram/Paper301341.html), presenting about his work on how to enhance _climate literacy_ across liberal arts education through cross-curriculum embedding of topics. He presented a summary of 4 years of partnership with the American Meteorological Society and the GSA educational initiatives.
+
+
+
+
+
+
+
+## _Summer 2017_
+
+- Students from the MS in Big Data Analytics finished their **Capstone Projects** this Summer! Congratulations to all!
+
+```{r, out.width = "600px", fig.align='center', echo=FALSE}
+knitr::include_graphics("BDA_group_SU17.JPG")
+```
+
+
+
+- Miami Dade College (MDC) and St Thomas University (STU) students participating on the **Summer Research Institute (SRI) 2017** learned about data science methods and tool, and use `R` for interesting undergraduate projects. Topics included an analysis of the gentrification process in the City of Miami, logistic regression models for student performance, statistical analysis of asthma and respiratory conditions, micro-climatic variations in St. Thomas University's forest, thermal imaging, among others.
+
+
+- **COP 2073 Intro to Data Sience** to be offered during the Fall of 2017. _Enroll now!_
+
+    (i) Instructor: [Reinaldo Sanchez-Arias, PhD](https://www.reisanar.com/)
+  
+    (ii) Meetings: MW 1:40 - 2:55 PM CCL 101
+    
+    
+    
+- Dr. [David Quesada](https://www.stu.edu/science/Faculty-Staff/David-Quesada) participated in the VI Ibero-American [Symposium on Nanotechnology](http://snnq17.com/nanodyf-eng/) in Ecuador with presentations on the use of _data science and machine learning to find new materials_ with desired properties.
+
+
+
